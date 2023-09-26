@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Better You</string>
+    <string name="book_name">Nama Buku</string>
+    <string name="description">Deskripsi buku\n</string>
+    <string name="author_name">Nama Author\n</string>
+
+    <string-array name="book_title">
+        <item>Mindset</item>
+        <item>The Power of Habit</item>
+        <item>Atomic Habits</item>
+        <item>The Subtle Art of Not Giving a F*ck</item>
+        <item>Becoming</item>
+        <item>You Are a Badass</item>
+        <item>Daring Greatly</item>
+        <item>The 5 Second Rule</item>
+        <item>Grit</item>
+        <item>Start with Why</item>
+        <item>Awaken the Giant Within</item>
+        <item>The 7 Habits of Highly Effective People</item>
+        <item>The Power of Now</item>
+        <item>Man\'s Search for Meaning</item>
+        <item>The Gifts of Imperfection</item>
+    </string-array>
+
+    <!-- Penulis Buku -->
+    <string-array name="book_author">
+        <item>Carol S. Dweck</item>
+        <item>Charles Duhigg</item>
+        <item>James Clear</item>
+        <item>Mark Manson</item>
+        <item>Michelle Obama</item>
+        <item>Jen Sincero</item>
+        <item>Brené Brown</item>
+        <item>Mel Robbins</item>
+        <item>Angela Duckworth</item>
+        <item>Simon Sinek</item>
+        <item>Tony Robbins</item>
+        <item>Stephen R. Covey</item>
+        <item>Eckhart Tolle</item>
+        <item>Viktor E. Frankl</item>
+        <item>Brené Brown</item>
+    </string-array>
+
+    <!-- Penerbit Buku -->
+    <string-array name="penerbit_buku">
+        <item>Random House</item>
+        <item>Random House</item>
+        <item>Penguin Random House</item>
+        <item>HarperOne</item>
+        <item>Crown Publishing Group</item>
+        <item>Running Press</item>
+        <item>Avery</item>
+        <item>Savio Republic</item>
+        <item>Scribner</item>
+        <item>Portfolio</item>
+        <item>Free Press</item>
+        <item>Free Press</item>
+        <item>New World Library</item>
+        <item>Beacon Press</item>
+        <item>Hazelden Publishing</item>
+    </string-array>
+
+    <!-- Tahun Terbit Buku -->
+    <string-array name="book_year">
+        <item>2006</item>
+        <item>2012</item>
+        <item>2018</item>
+        <item>2016</item>
+        <item>2018</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2009</item>
+        <item>1991</item>
+        <item>1989</item>
+        <item>1997</item>
+        <item>1946</item>
+        <item>2010</item>
+    </string-array>
+
+    <!-- Sinopsis Buku -->
+    <string-array name="book_description">
+        <item>Mindset: The New Psychology of Success adalah sebuah buku yang menggali perbedaan antara mindset tetap dan mindset berkembang. Carol S. Dweck, seorang psikolog terkenal, memaparkan bagaimana pola pikir ini mempengaruhi keberhasilan seseorang. Dengan membaca buku ini, pembaca akan belajar cara mengubah mindset mereka untuk mencapai potensi maksimal.</item>
+        <item>The Power of Habit: Why We Do What We Do in Life and Business adalah sebuah eksplorasi mendalam tentang kekuatan kebiasaan. Charles Duhigg membahas bagaimana kebiasaan membentuk kehidupan kita dan bagaimana kita dapat mengubahnya untuk mempengaruhi positif kehidupan sehari-hari dan bisnis.</item>
+        <item>Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones adalah panduan praktis untuk membangun kebiasaan baik dan menghilangkan kebiasaan buruk. James Clear memberikan pendekatan terstruktur dan ilmiah untuk mencapai perubahan positif dalam kehidupan.</item>
+        <item>The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life adalah buku yang menawarkan pandangan baru tentang kebahagiaan dan kepuasan dalam kehidupan. Mark Manson mendorong pembaca untuk mengubah perspektif mereka terhadap kehidupan dan mencari makna yang lebih dalam.</item>
+        <item>Becoming adalah memoar Michelle Obama yang menceritakan kisah hidupnya, nilai-nilai, dan perjuangannya untuk memberikan dampak positif. Buku ini menawarkan wawasan mendalam tentang kehidupan di Gedung Putih dan tujuannya untuk memberikan inspirasi kepada orang-orang di seluruh dunia.</item>
+        <item>You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life mendorong pembaca untuk mengatasi keraguan diri dan mengambil tindakan untuk mencapai tujuan mereka. Jen Sincero memberikan tips dan teknik yang praktis untuk meningkatkan kepercayaan diri dan mencapai potensi penuh.</item>
+        <item>Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead menjelajahi pentingnya keberanian dan kerentanan dalam mencapai koneksi yang lebih dalam dengan orang lain. Brené Brown menunjukkan bahwa menjadi rentan adalah kekuatan, bukan kelemahan.</item>
+        <item>The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage memperkenalkan aturan sederhana untuk melawan penundaan dan mengambil tindakan segera. Mel Robbins memberikan alat praktis untuk membantu pembaca mencapai tujuan mereka dengan lebih efektif.</item>
+        <item>Grit: The Power of Passion and Perseverance menguraikan pentingnya gairah dan ketekunan dalam mencapai kesuksesan jangka panjang. Angela Duckworth membahas bagaimana karakteristik ini dapat mempengaruhi pencapaian tingkat tinggi.</item>
+        <item>Start with Why: How Great Leaders Inspire Everyone to Take Action memaparkan konsep "Why" sebagai elemen kunci dalam memotivasi orang dan organisasi. Simon Sinek mengilustrasikan bagaimana memahami tujuan inti dapat membentuk budaya perusahaan dan keberhasilan jangka panjang.</item>
+        <item>Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! memberikan panduan tentang bagaimana mengambil kendali atas kehidupan dan mencapai tujuan yang besar. Tony Robbins memberikan strategi praktis untuk membentuk kehidupan yang memuaskan dan memuaskan.</item>
+        <item>The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change menguraikan kebiasaan-kebiasaan penting yang dapat membentuk karakter dan kesuksesan seseorang. Stephen R. Covey menawarkan panduan yang mendalam untuk memaksimalkan potensi pribadi dan profesional.</item>
+        <item>The Power of Now: A Guide to Spiritual Enlightenment membimbing pembaca untuk hidup di saat ini dan menemukan kedamaian dalam diri mereka. Eckhart Tolle mengajarkan konsep kehadiran sekarang dan bagaimana itu dapat membawa kebahagiaan dan kepuasan.</item>
+        <item>Man\'s Search for Meaning adalah memoar dari Viktor E. Frankl yang mengeksplorasi arti kehidupan berdasarkan pengalaman selama penahanan di kamp konsentrasi Nazi. Buku ini menyajikan refleksi mendalam tentang kekuatan manusia untuk menemukan makna bahkan dalam kondisi terburuk.</item>
+        <item>The Gifts of Imperfection: Let Go of Who You Think You\'re Supposed to Be and Embrace Who You Are mengajak pembaca untuk merangkul kekurangan dan mengejar kehidupan yang lebih otentik dan memuaskan. Brené Brown mengilustrasikan betapa pentingnya menerima diri sendiri dan hidup dengan keberanian sejati.</item>
+    </string-array>
+
+    <string-array name="book_photo">
+        <item>https://www.gramedia.com/blog/content/images/2020/02/Buku_Mindset-ok-framed.png</item>
+        <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/21150830/img20190902_16534294__w600_hauto.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786020633176_.Atomic_Habit.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/THE-SUBTLE-ART-OF-NOT-GIVIN.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786023857470_Becoming.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786026486264_You-Are-a-Badass_Stop-Meragukan-Kehebatanmu-Edisi-Revisi.jpg</item>
+        <item>https://cdn2.penguin.com.au/covers/original/9780241257401.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/5_SECOUND.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786020620930_Grit_Kekuatan-Passion-dan-Kegigihan-Edisi-Revisi.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9781591846444.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/Awaken_the_Giant_Within_C_1_4_page-0001.jpg</item>
+        <item>https://www.bukukita.com/babacms/displaybuku/91658_f.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786230405761.jpeg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786023854165_MANS-SEARCH-F.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9780593133583.jpg</item>
+    </string-array>
+
+</resources>
