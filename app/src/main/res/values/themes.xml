@@ -2,8 +2,16 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.BetterYou" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!--         <item name="colorPrimary">@color/design_default_color_primary</item>-->
+        <item name="android:windowBackground">@color/colorBackground</item>
     </style>
 
-    <style name="Theme.BetterYou" parent="Base.Theme.BetterYou" />
+    <style name="Theme.BetterYou" parent="Base.Theme.BetterYou">
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="textFillColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+
 </resources>

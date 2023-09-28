@@ -3,6 +3,14 @@
     <string name="book_name">Nama Buku</string>
     <string name="description">Deskripsi buku\n</string>
     <string name="author_name">Nama Author\n</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="tahun_terbit">Tahun Terbit</string>
+    <string name="penulis_buku">Penulis</string>
+    <string name="tentang_buku">Tentang Buku</string>
+    <string name="contoh_deskripsi">Mindset: The New Psychology of Success adalah sebuah buku yang menggali perbedaan antara mindset tetap dan mindset berkembang. Carol S. Dweck, seorang psikolog terkenal, memaparkan bagaimana pola pikir ini mempengaruhi keberhasilan seseorang. Dengan membaca buku ini, pembaca akan belajar cara mengubah mindset mereka untuk mencapai potensi maksimal.</string>
+    <string name="github">github.com/munovrizall</string>
+    <string name="linkedin">linkedin.com/in/munovrizall/</string>
+    <string name="instagram">instagram.com/munovrizall</string>
 
     <string-array name="book_title">
         <item>Mindset</item>
@@ -99,7 +107,7 @@
     </string-array>
 
     <string-array name="book_photo">
-        <item>https://www.gramedia.com/blog/content/images/2020/02/Buku_Mindset-ok-framed.png</item>
+        <item>https://m.media-amazon.com/images/I/61y1U-lPl5L._AC_UF1000,1000_QL80_.jpg</item>
         <item>https://cdnwpseller.gramedia.net/wp-content/uploads/2021/12/21150830/img20190902_16534294__w600_hauto.jpg</item>
         <item>https://cdn.gramedia.com/uploads/items/9786020633176_.Atomic_Habit.jpg</item>
         <item>https://cdn.gramedia.com/uploads/items/THE-SUBTLE-ART-OF-NOT-GIVIN.jpg</item>
@@ -114,6 +122,24 @@
         <item>https://cdn.gramedia.com/uploads/items/9786230405761.jpeg</item>
         <item>https://cdn.gramedia.com/uploads/items/9786023854165_MANS-SEARCH-F.jpg</item>
         <item>https://cdn.gramedia.com/uploads/items/9780593133583.jpg</item>
+    </string-array>
+
+    <string-array name="book_link">
+        <item>https://www.tokopedia.com/mizanstorejkt/bc-buku-mindset-edisi-revisi-carol-s-dweck-ph-d?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/gramedia-store/the-power-of-habit?extParam=cmp%3D1%26ivf%3Dfalse%26shop_tier%3D2%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/gramedia-store/atomic-habits-perubahan-kecil-yang-memberikan-hasil-luar-biasa?extParam=ivf%3Dfalse%26whid%3D12588341</item>
+        <item>https://www.tokopedia.com/gramedia-store/sebuah-seni-untuk-bersikap-bodo-amat-edisi-handy?extParam=ivf%3Dfalse%26shop_tier%3D2%26src%3Dsearch%26whid%3D4147220</item>
+        <item>https://www.tokopedia.com/kikkerland/buku-import-becoming-sc?extParam=ivf%3Dfalse%26shop_tier%3D2%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/republikfiksi/buku-you-are-a-badass-edisi-revisi-jen-sincero-penerbit-baca?extParam=ivf%3Dfalse%26shop_tier%3D2%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/bookworldindo/buku-import-daring-greatly-by-brene-brown-original-paperback?extParam=ivf%3Dfalse</item>
+        <item>https://www.tokopedia.com/bukukita/buku-the-5-second-rule-oleh-mel-robbins?extParam=ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/solusibukuonline/buku-grit-kekuatan-passion-dan-kegigihan-edisi-revisi?extParam=ivf%3Dfalse%26shop_tier%3D2%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/gramedia-store/start-with-why?extParam=ivf%3Dfalse%26shop_tier%3D2%26src%3Dsearch%26whid%3D12588367</item>
+        <item>https://www.tokopedia.com/gramedia-store/awaken-the-giant-within-622221063?extParam=ivf%3Dfalse%26src%3Dsearch%26whid%3D16216725</item>
+        <item>https://www.tokopedia.com/bukubeta/the-7-habits-of-highly-effective-people-7-kebiasaan-manusia?extParam=ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/gramedia-store/the-power-of-now-pedoman-menuju-pencerahan-spiritual?extParam=ivf%3Dfalse%26src%3Dsearch%26whid%3D12588367</item>
+        <item>https://www.tokopedia.com/ombotakshop/buku-mans-search-for-meaning-viktor-e-frankl?extParam=ivf%3Dfalse</item>
+        <item>https://www.tokopedia.com/pusatkomik/buku-tak-apa-apa-tak-sempurna-the-gift-of-imperfection-brene-brown?extParam=ivf%3Dfalse%26src%3Dsearch</item>
     </string-array>
 
 </resources>
